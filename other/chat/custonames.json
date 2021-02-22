@@ -1,10 +1,14 @@
 [
     {
         "name": "MatthewTGM",
-        "colour": "GOLD"
+        "colour": "YELLOW"
+    },
+    {
+        "name": "DamianTGM",
+        "colour": "BLUE"
     },
     {
         "name": "Jamesia",
-        "colour": "AQUA"
+        "colour": "GREEN"
     }
 ]
