@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Squid",
+        "message": "A Squid appeared."
+    },
+    {
+        "name": "Sea Walker",
+        "message": "You caught a Sea Walker."
+    },
+    {
+        "name": "Night Squid",
+        "message": "Pitch Darkness reveals you've caught a Night Squid."
+    },
+    {
+        "name": "Frozen Steve",
+        "message": "Frozen Steve fell into the pond long ago, never to resurface...until now!"
+    },
+    {
+        "name": "Nurse Shark",
+        "message": "A tiny fin emerges from the water, you've caught a Nurse Shark."
+    },
+    {
+        "name": "Sea Guardian",
+        "message": "You stumbled upon a Sea Guardian."
+    },
+    {
+        "name": "Frosty",
+        "message": "It's a snowman! He looks harmless"
+    },
+    {
+        "name": "Scarecrow",
+        "message": "Phew! It's only a scarecrow."
+    },
+    {
+        "name": "Sea Witch",
+        "message": "It looks like you've disrupted the Sea Witch's brewing session. Watch out, she's furious!"
+    },
+    {
+        "name": "Blue Shark",
+        "message": "You spot a fin as blue as the water it came from, it's a Blue Shark."
+    },
+    {
+        "name": "Sea Archer",
+        "message": "You reeled in a Sea Archer."
+    },
+    {
+        "name": "Monster of The Deep",
+        "message": "The Monster of the Deep has emerged."
+    },
+    {
+        "name": "Grinch",
+        "message": "The Grinch stole Jerry's Gifts...get them back!"
+    },
+    {
+        "name": "Catfish",
+        "message": "Huh? A Catfish!"
+    },
+    {
+        "name": "Nightmare",
+        "message": "You hear trotting from beneath the waves, you caught a Nightmare"
+    },
+    {
+        "name": "Catfish",
+        "message": "Huh? A Catfish!"
+    },
+    {
+        "name": "Carrot King",
+        "message": "Is this even a fish? It's the Carrot King!"
+    },
+    {
+        "name": "Sea Leech",
+        "message": "Gross! A Sea Leech!"
+    },
+    {
+        "name": "Guardian Defender",
+        "message": "You've discovered a Guardian Defender of the sea."
+    },
+    {
+        "name": "Werewolf",
+        "message": "It must be a full moon, a Werewolf appears!"
+    },
+    {
+        "name": "Tiger Shark",
+        "message": "A striped beast bounds from the depths, the wild Tiger Shark!"
+    },
+    {
+        "name": "Deep Sea Protector",
+        "message": "You have awoken the Deep Sea Protector, prepare for a battle!"
+    },
+    {
+        "name": "Water Hydra",
+        "message": "The Water Hydra has come to test your strength."
+    },
+    {
+        "name": "Sea Emperor",
+        "message": "The Sea Emperor arises from the depths."
+    },
+    {
+        "name": "Phantom Fisher",
+        "message": "The spirit of a long lost Phantom Fisher has come to haunt you."
+    },
+    {
+        "name": "Great White Shark",
+        "message": "Hide no longer, a Great White Shark has tracked your scent and thirsts for your blood!"
+    },
+    {
+        "name": "Yeti",
+        "message": "What is this creature!?"
+    },
+    {
+        "name": "Grim Reaper",
+        "message": "This can't be! The manifestation of death himself!"
+    }
+]
